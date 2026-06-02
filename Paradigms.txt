@@ -1,0 +1,6 @@
+Event driven,
+Dependency Injections, 
+Functional programming,
+Object Oriented Programming, 
+Async Programming,
+Procedural Programming
